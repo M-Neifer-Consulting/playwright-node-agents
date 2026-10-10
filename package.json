@@ -1,0 +1,23 @@
+{
+  "name": "playwright-node-agents",
+  "version": "1.0.0",
+  "description": "Playwright test agents example.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Neifer-Consulting/playwright-node-agents.git"
+  },
+  "keywords": ["playwright"],
+  "author": "Markus Neifer",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/M-Neifer-Consulting/playwright-node-agents/issues"
+  },
+  "homepage": "https://github.com/M-Neifer-Consulting/playwright-node-agents#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  }
+}
